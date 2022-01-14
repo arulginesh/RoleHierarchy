@@ -1,5 +1,4 @@
 # RoleHierarchy
-RandoCommentAPP
 Get the App from Github - https://github.com/arulginesh/RoleHierarchy.git
 
 This App created by using Core PHP, Database -  Mysql, and UI Design - Bootstrap
